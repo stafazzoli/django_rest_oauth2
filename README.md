@@ -1,4 +1,4 @@
-## A Journey into the Realm of OAuth2 with Django Rest Framework
+## A Journey into the Realm of OAuth2 with Django REST Framework
 
 The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service. OAuth 2.0 APIs can be used for both authentication and authorization. 
 In this note, I want to review and document how to set up OAuth2 for a Django REST project. Using OAuth2 for JSON-based API can be challenging.  
