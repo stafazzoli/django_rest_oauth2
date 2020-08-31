@@ -1,3 +1,4 @@
+# ref: https://pastebin.com/08iLNCJc
 from django.contrib.auth import login
 from requests.exceptions import HTTPError
 from rest_framework import generics, permissions, status
